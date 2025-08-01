@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git@github.com:maheshwari-nitin/django-arbitration-app.git
+git clone https://github.com/Sneh-s52/AI-Legal-Arbitration.git
 cd django-arbitration-app
 ```
 
